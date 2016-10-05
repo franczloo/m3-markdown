@@ -15,5 +15,5 @@ See `complete` branch for answers.
   * just make a _*_ mark and a tab to make it appear
 
  * These lists are great for clarity
-   * Item 1
+   * '''Item 1 '''
      * Item 2
