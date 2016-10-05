@@ -9,3 +9,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+#Nested List
+* So the reason behind a nested list is to organize your data
+  * just make a _*_ mark and a tab to make it appear
+
+ * These lists are great for clarity
+   * Item 1
+     * Item 2
